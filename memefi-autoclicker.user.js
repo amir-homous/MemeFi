@@ -2,13 +2,13 @@
 // @name         MemeFI Autoclicker
 // @version      1.1
 // @description  Running TapSwap in a browser
-// @author       mudachyo
+// @author       amir-homous
 // @match        https://tg-app.memefi.club/*
 // @grant        none
 // @icon         https://s2.coinmarketcap.com/static/img/coins/64x64/29373.png
-// @downloadURL  https://github.com/mudachyo/MemeFi-Coin/raw/main/memefi-autoclicker.user.js
-// @updateURL    https://github.com/mudachyo/MemeFi-Coin/raw/main/memefi-autoclicker.user.js
-// @homepage     https://github.com/mudachyo/MemeFi-Coin
+// @downloadURL  https://github.com/amir-homous/MemeFi-Coin/raw/main/memefi-autoclicker.user.js
+// @updateURL    https://github.com/amir-homous/MemeFi-Coin/raw/main/memefi-autoclicker.user.js
+// @homepage     https://github.com/amir-homous/MemeFi-Coin
 // ==/UserScript==
 
 // Функция для генерации и отправки событий клика с рандомными координатами
