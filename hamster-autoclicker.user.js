@@ -2,13 +2,14 @@
 // @name         Hamster Kombat Autoclicker
 // @namespace    Violentmonkey Scripts
 // @match        *://*.hamsterkombat.io/*
+// @author       amir-homous
 // @version      1.2
 // @description  12.06.2024, 21:43:52
 // @grant        none
 // @icon         https://hamsterkombat.io/images/icons/hamster-coin.png
-// @downloadURL  https://github.com/mudachyo/Hamster-Kombat/raw/main/hamster-autoclicker.user.js
-// @updateURL    https://github.com/mudachyo/Hamster-Kombat/raw/main/hamster-autoclicker.user.js
-// @homepage     https://github.com/mudachyo/Hamster-Kombat
+// @downloadURL  https://github.com/amir-homous/Hamster-Kombat/raw/main/hamster-autoclicker.user.js
+// @updateURL    https://github.com/amir-homous/Hamster-Kombat/raw/main/hamster-autoclicker.user.js
+// @homepage     https://github.com/amir-homous/Hamster-Kombat
 // ==/UserScript==
 
 (function () {
